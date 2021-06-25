@@ -1,5 +1,5 @@
 By: satsuki#9043  
-[Court of Yanfei Discord](discord.gg/courtofyanfei)  
+[Court of Yanfei Discord](https://discord.gg/courtofyanfei)  
 
 [Yanfei pic]
 *A half-illuminated beast and highly-skilled legal adviser. She combines adherence to the legal codices and reasonable flexibility to find the perfect balance in her work. She devotes herself to protecting the fairness of contracts in Liyue with her identity as a legal adviser and her unique experience and methods.*
