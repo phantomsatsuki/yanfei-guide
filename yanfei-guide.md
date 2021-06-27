@@ -63,7 +63,7 @@ This constellation helps alleviate stamina issues. It makes Yanfei able to spam 
 ![Right of Final Interpretation](images/constellations/c2.png)  
 *Increases Yanfei's Charged Attack CRIT Rate by 20% against enemies below 50% HP.*  
 
-Effectively a 10% CRIT Rate boost. It's free damage, and it's a fine constellation to have.
+Effectively a 10% CRIT Rate boost. It's free damage, and it's a fine constellation.
 
 ### C3: Samadhi Fire-Forged
 ![Samadhi Fire-Forged](images/constellations/c3.png)  
@@ -75,7 +75,7 @@ This constellation improves Yanfei's **Elemental Skill**. As described above, th
 ![Supreme Amnesty](images/constellations/c4.png)  
 *When Done Deal is used: Creates a shield that absorbs up to 45% of Yanfei's Max HP for 15s. This shield absorbs Pyro DMG 250% more effectively.*  
 
-This provides a shield. It contributes nothing to DPS directly, but makes fighting in close range more comfortable. The duration is the same as the ult.
+This provides a shield. It contributes nothing to DPS directly, but makes fighting in close range more comfortable. The duration is the same as the ult. Overall it's good to have.
 
 ### C5: Abiding Affidavit
 ![Abiding Affidavit](images/constellations/c5.png)  
@@ -87,7 +87,7 @@ This constellation improves Yanfei's **Elemental Burst**. More level of burst me
 ![Extra Clause](images/constellations/c6.png)  
 *Increases the maximum number of Scarlet Seals by 1.*  
 
-This increases the maximum number Scarlet Seals from 3 to 4. It may or may not help you depending on Yanfei's optimal combo for your team. Although, it's not bad to have the options. One interesting thing to note is Charge Attacking with 4 Scarlet Seals **consumes zero stamina**.
+This increases the maximum number Scarlet Seals from 3 to 4. It may or may not help you depending on Yanfei's optimal combo for your team. One interesting thing to note is Charge Attacking with 4 Scarlet Seals **consumes zero stamina**. This constellation opens more gameplay options and is generally a good one.
 
 
 # Weapons
