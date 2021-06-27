@@ -77,18 +77,18 @@ This increases the maximum number Scarlet Seals from 3 to 4. It may or may not h
 
 # Weapons
 |5 stars       |   |
-|--------------|---|
-|![Skyward Atlas](images/weapons/skyward-atlas.png) Skyward Atlas|   |
-|![Lost Prayer to the Sacred Winds](images/weapons/lost-prayer-to-the-sacred-winds.png) Lost Prayer to the Sacred Winds|   |
-|![Memory of Dust](images/weapons/memory-of-dust.png) Memory of Dust|   |
+|:------------:|---|
+|![Skyward Atlas](images/weapons/skyward-atlas.png)<br>Skyward Atlas|   |
+|![Lost Prayer to the Sacred Winds](images/weapons/lost-prayer-to-the-sacred-winds.png)<br>Lost Prayer to the Sacred Winds|   |
+|![Memory of Dust](images/weapons/memory-of-dust.png)<br>Memory of Dust|   |
 
 |4 stars       |   |
-|--------------|---|
-|![The Widsith](images/weapons/the-widsith.png) The Widsith|   |
-|![Dodoco Tales](images/weapons/dodoco-tales.png) Dodoco Tales|   |
-|![Solar Pearl](images/weapons/solar-pearl.png) Solar Pearl|   |
-|![Mappa Mare](images/weapons/mappa-mare.png) Mappa Mare|   |
-|![Blackcliff Agate](images/weapons/blackcliff-agate.png) Blackcliff Agate|   |
+|:------------:|---|
+|![The Widsith](images/weapons/the-widsith.png)<br>The Widsith|   |
+|![Dodoco Tales](images/weapons/dodoco-tales.png)<br>Dodoco Tales|   |
+|![Solar Pearl](images/weapons/solar-pearl.png)<br>Solar Pearl|   |
+|![Mappa Mare](images/weapons/mappa-mare.png)<br>Mappa Mare|   |
+|![Blackcliff Agate](images/weapons/blackcliff-agate.png)<br>Blackcliff Agate|   |
 
 # Artifacts
 ## Amp build
