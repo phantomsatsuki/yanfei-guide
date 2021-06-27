@@ -91,7 +91,6 @@ This increases the maximum number Scarlet Seals from 3 to 4. It may or may not h
 |![Blackcliff Agate](images/weapons/blackcliff-agate.png)<br>Blackcliff Agate|   |
 
 # Artifacts
-## Amp build
 ### Main stats
 - Sands: *Elemental Mastery* or *ATK*
 - Cup: *Pyro DMG Bonus*
@@ -99,17 +98,17 @@ This increases the maximum number Scarlet Seals from 3 to 4. It may or may not h
 The main stats are built like typical DPS. However, EM Sands actually yields slightly better damage compared to ATK Sands. The difference isn't much though so choose whichever one you have with better substats.  
 Building Energy Recharge on Yanfei is *not worth it*. Even though you get to ult more often, it doesn't compensate for the damage loss from not using EM or ATK Sands.
 ### Substats
-Crit Rate/Crit Damage > ATK%/EM > ER  
+Crit Rate/Crit Damage > EM > ATK% > ER  
 Typical DPS substat priority. Again, ER is useful to have, but ATK% and EM are still better.
 ### Set Bonus
-1. 4x Wanderer's Troupe
-    This set is generally regarded as best in slot for Amp Yanfei. It helps amplify Yanfei's Charge Attack damage with 80 EM and 35% Charge Attack DMG Bonus. However, this set is very hard to farm so you might not have pieces with actually good substats.
-2. 4x Crimson Witch of Flames
-    This set is comparable to Wanderer's Troupe. It also helps amplify Yanfei's damage with 15% Pyro DMG Bonus and the 4x effect. The reaction damage portion of the 4x effect is slightly better than 80 EM from Wanderer's Troupe. Meanwhile, the 2x effect increase portion you'll realistically only have 1-2 stacks, so it's slightly lower than Wanderer's Troupe's 35% bonus, but it also improves the damage of Normal Attack and Elemental Skill. As a result, choosing which set to use comes down to substats.
-3. 4x Retracing Bolide
-    This set is for those with C4 or shield support. It's playable but you'll need to be mindful of the shield's uptime. Use it if you can fulfill the shield condition and it has good substats.
+|Artifact Set  |   |
+|:------------:|---|
+|![Crimson Witch of Flames](images/artifacts/crimson-witch-of-flames-flower.png)<br>4x Crimson Witch of Flames|This set amplifies Yanfei's damage with **15% Pyro DMG Bonus** and **reaction damage bonus**. Since everything Yanfei does is Pyro, and you'll want to do reactions with her anyway, this set is a perfect match. You'll realistically only have 1-2 stack for the 4x effect that increases Pyro DMG Bonus, but it's good enough.|
+|![Wanderer's Troupe](images/artifacts/wanderers-troupe-flower.png)<br>4x Wanderer's Troupe|This set also amplifies Yanfei's damage with **80 Elemental Mastery** and **35% Charged Attack DMG**. Elemental Mastery increases reaction damage, and Charged Attack DMG Bonus increases Charged Attack damage, which is the majority of Yanfei's DPS. The logic favouring this set is the same as 4x Crimson Witch. For that reason, this set is considered **equally as good** as 4x Crimson Witch.|
+|![Retracing Bolide](images/artifacts/wanderers-troupe-flower.png)<br>4x Retracing Bolide|This set has **35% Shield Strength** and **40% Normal and Charged Attack DMG while shielded**. It's recommended to have C4 or shield support while playing this set. The raw damage this set gives isn't as much as Crimson Witch or Wanderer's Troupe, but it comes with more Shield Strength. Overall, this set is playable if you can fulfill its shield condition.|
+|![Lavawalker](images/artifacts/lavawalker-flower.png)<br>4x Lavawalker|This set gives **35% DMG Bonus against enemies affected by Pyro**. It's a niche set that requires specific team to shine, but it's playable if you're sure that your enemies will be affected by Pyro most of the time.|
 
-- Overload needs 1.6 testing but presumably still ATK/Pyro/Crit
+Please be aware that generally a set **bonus** is just that, a bonus. It's usually better to have an off-set piece with good substats than to complete a set with bad substat. Punch your artifacts into a [calculator](https://frzyc.github.io/genshin-optimizer) if you want to optimise your DPS.
 
 # How To Play
 
