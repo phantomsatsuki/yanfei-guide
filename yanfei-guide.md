@@ -76,17 +76,19 @@ This constellation improves Yanfei's **Elemental Burst**. More level of burst me
 This increases the maximum number Scarlet Seals from 3 to 4. It may or may not help you depending on Yanfei's optimal combo for your team. Although, it's not bad to have the options. One interesting thing to note is Charge Attacking with 4 Scarlet Seals **consumes zero stamina**.
 
 # Weapons
-### 5 stars
-- Skyward Atlas
-- Lost Prayer to the Sacred Winds
-- Memory of Dust
+|5 stars       |   |
+|--------------|---|
+|![Skyward Atlas](images/weapons/skyward-atlas.png) Skyward Atlas|   |
+|![Lost Prayer to the Sacred Winds](images/weapons/lost-prayer-to-the-sacred-winds.png) Lost Prayer to the Sacred Winds|   |
+|![Memory of Dust](images/weapons/memory-of-dust.png) Memory of Dust|   |
 
-### 4 stars
-- The Widsith
-- Solar Pearl
-- Dodoco Tales
-- Mappa Mare
-- Blackcliff Agate
+|4 stars       |   |
+|--------------|---|
+|![The Widsith](images/weapons/the-widsith.png) The Widsith|   |
+|![Dodoco Tales](images/weapons/dodoco-tales.png) Dodoco Tales|   |
+|![Solar Pearl](images/weapons/solar-pearl.png) Solar Pearl|   |
+|![Mappa Mare](images/weapons/mappa-mare.png) Mappa Mare|   |
+|![Blackcliff Agate](images/weapons/blackcliff-agate.png) Blackcliff Agate|   |
 
 # Artifacts
 ## Amp build
