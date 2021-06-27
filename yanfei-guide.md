@@ -34,16 +34,19 @@ Yanfei's Elemental Burst. Deals a moderate amount of damage, generates the maxim
 ### Passive: Encyclopedic Expertise
 ![Encyclopedic Expertise](images/talents/passive.png)  
 *Displays the location of nearby resources unique to Liyue on the mini-map.*  
+
 Helps a bit on material gathering.
 
 ### Ascension 1: Proviso
 ![Proviso](images/talents/ascend1.png)  
 *When Yanfei consumes Scarlet Seals by using a Charged Attack, each Scarlet Seal will **increase Yanfei's Pyro DMG Bonus by 5%**. This effect lasts for 6s. When a Charged Attack is used again during the effect's duration, it will dispel the previous effect.*  
+
 Free Damage. Each time Yanfei performs a Charged Attack, a number will appear to signify how many Seals are consumed.
 
 ### Ascension 4: Blazing Eye
 ![Blazing Eye](images/talents/ascend4.png)  
 *When Yanfei's Charged Attack deals a CRIT Hit to opponents, she will deal an additional instance of **AoE Pyro DMG equal to 80% of her ATK**. This DMG counts as Charged Attack DMG.*  
+
 More Damage. However, unlike the Ascension 1 Passive, this one isn't free. The additional hit comes with **additional Pyro application**, which can disturb the aura application of the team's supports. This talent is the main cause of the need to modify Yanfei's combo to fit her supports, which will be detailed below.
 
 ### Talent Priority
@@ -53,27 +56,39 @@ Normal Attack > Elemental Burst >>>>>>>>>>>>>>> Elemental Skill
 ### C1: The Laws Knows No Kindness
 ![The Laws Knows No Kindness](images/constellations/c1.png)  
 *When Yanfei uses her Charged Attack, each existing Scarlet Seal additionally reduces the stamina cost of this Charged Attack by 10% and increases resistance against interruption during its release.*  
+
 This constellation helps alleviate stamina issues. It makes Yanfei able to spam more Charge Attacks and dodge enemies' attacks. This is Yanfei's best constellation. Try to get this if you can.
+
 ### C2: Right of Final Interpretation
 ![Right of Final Interpretation](images/constellations/c2.png)  
 *Increases Yanfei's Charged Attack CRIT Rate by 20% against enemies below 50% HP.*  
+
 Effectively a 10% CRIT Rate boost. It's free damage, and it's a fine constellation to have.
+
 ### C3: Samadhi Fire-Forged
 ![Samadhi Fire-Forged](images/constellations/c3.png)  
 *Increases the Level of Signed Edict by 3. Maximum upgrade level is 15.*  
+
 This constellation improves Yanfei's **Elemental Skill**. As described above, the Elemental Skill's level doesn't contribute much to Yanfei's DPS, so this constellation isn't a good one to aim for.
+
 ### C4: Supreme Amnesty
 ![Supreme Amnesty](images/constellations/c4.png)  
 *When Done Deal is used: Creates a shield that absorbs up to 45% of Yanfei's Max HP for 15s. This shield absorbs Pyro DMG 250% more effectively.*  
+
 This provides a shield. It contributes nothing to DPS directly, but makes fighting in close range more comfortable. The duration is the same as the ult.
+
 ### C5: Abiding Affidavit
 ![Abiding Affidavit](images/constellations/c5.png)  
 *Increases the level of Done Deal by 3. Maximum upgrade level is 15.*  
+
 This constellation improves Yanfei's **Elemental Burst**. More level of burst means more Charged Attack DMG Bonus, which contributes to a major portion of DPS. This is considered Yanfei's second best constellation.
+
 ### C6: Extra Clause
 ![Extra Clause](images/constellations/c6.png)  
 *Increases the maximum number of Scarlet Seals by 1.*  
+
 This increases the maximum number Scarlet Seals from 3 to 4. It may or may not help you depending on Yanfei's optimal combo for your team. Although, it's not bad to have the options. One interesting thing to note is Charge Attacking with 4 Scarlet Seals **consumes zero stamina**.
+
 
 # Weapons
 |5 stars       |   |
