@@ -33,17 +33,17 @@ Yanfei's Elemental Burst. Deals a moderate amount of damage, generates the maxim
 
 ### Passive: Encyclopedic Expertise
 ![Encyclopedic Expertise](images/talents/passive.png)  
-*Displays the location of nearby resources unique to Liyue on the mini-map.*
+*Displays the location of nearby resources unique to Liyue on the mini-map.*  
 Helps a bit on material gathering.
 
 ### Ascension 1: Proviso
 ![Proviso](images/talents/ascend1.png)  
-*When Yanfei consumes Scarlet Seals by using a Charged Attack, each Scarlet Seal will **increase Yanfei's Pyro DMG Bonus by 5%**. This effect lasts for 6s. When a Charged Attack is used again during the effect's duration, it will dispel the previous effect.*
+*When Yanfei consumes Scarlet Seals by using a Charged Attack, each Scarlet Seal will **increase Yanfei's Pyro DMG Bonus by 5%**. This effect lasts for 6s. When a Charged Attack is used again during the effect's duration, it will dispel the previous effect.*  
 Free Damage. Each time Yanfei performs a Charged Attack, a number will appear to signify how many Seals are consumed.
 
 ### Ascension 4: Blazing Eye
 ![Blazing Eye](images/talents/ascend4.png)  
-*When Yanfei's Charged Attack deals a CRIT Hit to opponents, she will deal an additional instance of **AoE Pyro DMG equal to 80% of her ATK**. This DMG counts as Charged Attack DMG.*
+*When Yanfei's Charged Attack deals a CRIT Hit to opponents, she will deal an additional instance of **AoE Pyro DMG equal to 80% of her ATK**. This DMG counts as Charged Attack DMG.*  
 More Damage. However, unlike the Ascension 1 Passive, this one isn't free. The additional hit comes with **additional Pyro application**, which can disturb the aura application of the team's supports. This talent is the main cause of the need to modify Yanfei's combo to fit her supports, which will be detailed below.
 
 ### Talent Priority
