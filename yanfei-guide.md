@@ -78,13 +78,13 @@ This increases the maximum number Scarlet Seals from 3 to 4. It may or may not h
 # Weapons
 |5 stars       |   |
 |:------------:|---|
-|![Skyward Atlas](images/weapons/skyward-atlas.png)<br>Skyward Atlas|   |
+|![Skyward Atlas](images/weapons/skyward-atlas.png)<br>Skyward Atlas|Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.|
 |![Lost Prayer to the Sacred Winds](images/weapons/lost-prayer-to-the-sacred-winds.png)<br>Lost Prayer to the Sacred Winds|   |
 |![Memory of Dust](images/weapons/memory-of-dust.png)<br>Memory of Dust|   |
 
 |4 stars       |   |
 |:------------:|---|
-|![The Widsith](images/weapons/the-widsith.png)<br>The Widsith|   |
+|![The Widsith](images/weapons/the-widsith.png)<br>The Widsith|Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.|
 |![Dodoco Tales](images/weapons/dodoco-tales.png)<br>Dodoco Tales|   |
 |![Solar Pearl](images/weapons/solar-pearl.png)<br>Solar Pearl|   |
 |![Mappa Mare](images/weapons/mappa-mare.png)<br>Mappa Mare|   |
