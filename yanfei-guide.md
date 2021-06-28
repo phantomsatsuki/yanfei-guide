@@ -99,13 +99,14 @@ This increases the maximum number Scarlet Seals from 3 to 4. It may or may not h
 
 |4 stars       |   |
 |:------------:|---|
-|![The Widsith](images/weapons/the-widsith.png)<br>The Widsith|Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.|
-|![Dodoco Tales](images/weapons/dodoco-tales.png)<br>Dodoco Tales|   |
-|![Solar Pearl](images/weapons/solar-pearl.png)<br>Solar Pearl|   |
-|![Mappa Mare](images/weapons/mappa-mare.png)<br>Mappa Mare|   |
-|![Blackcliff Agate](images/weapons/blackcliff-agate.png)<br>Blackcliff Agate|   |
+|![The Widsith](images/weapons/the-widsith.png)<br>The Widsith|The Widsith is a great weapon for Yanfei. With a **crit stat**, it's easier to build good crit ratio on artifacts. Furthermore, Yanfei can use **all** of its three effects extremely well, especially if you play with Vaporize. The only downside is its long cooldown, which affect the overall damage output if you play Yanfei as a sustained DPS. At **high refine**, it's considered best in slot among four stars. However, at low refine, some of the other options might be better.|
+|![Dodoco Tales](images/weapons/dodoco-tales.png)<br>Dodoco Tales|Dodoco Tales, the free weapon from the 1.6 Midsummer Islands Adventure event, is another great choice. It grants **bonus to Charged Attack**, which is a big portion of Yanfei's output. It's also easy to max refine, so it might pull over other options for low spender. A solid weapon overall.|
+|![Solar Pearl](images/weapons/solar-pearl.png)<br>Solar Pearl|The battle pass weapon. Another solid choice with its **crit stat**. Although, its effect, **granting Normal Attack, Elemental Skill, and Elemental Burst DMG Bonus**, isn't big compared to the other two above due to how big of a deal Charged Attacks are for Yanfei. Overall it's slightly worse than The Widsith and Dodoco Tales, but still a viable choice. You can't go wrong with a battle pass weapon.|
+|![Mappa Mare](images/weapons/mappa-mare.png)<br>Mappa Mare|The craftable weapon. A solid stat stick. With its **Elemental Mastery** stat, you're pretty much locked in to a **Vaporize** build. Still a good F2P choice if you missed Dodoco Tales.|
+|![Blackcliff Agate](images/weapons/blackcliff-agate.png)<br>Blackcliff Agate|The Starglitter shop weapon. It has the exact same base stats as The Widsith, but a significantly worse effect. It's a fine F2P choice if you don't have any other options.|
 
 # Artifacts
+\[TODO refine artifact choice\]
 ### Main stats
 - Sands: *Elemental Mastery* or *ATK*
 - Cup: *Pyro DMG Bonus*
@@ -127,6 +128,7 @@ Please be aware that generally a set **bonus** is just that, a bonus. It's usual
 
 # How To Play
 
+\[TODO refine build choice\]
 ## Builds
 Yanfei's role is a selfish main DPS. She will be on field most of the time, only swap to unleash the supports' skills and swap back.  
 As with other Pyro DPS, there are generally two ways to build Yanfei based on the Elemental Reactions you want to use.
