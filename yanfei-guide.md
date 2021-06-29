@@ -93,9 +93,9 @@ This increases the maximum number Scarlet Seals from 3 to 4. It may or may not h
 # Weapons
 |5 stars       |   |
 |:------------:|---|
-|![Skyward Atlas](images/weapons/skyward-atlas.png)<br>Skyward Atlas|Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.|
-|![Lost Prayer to the Sacred Winds](images/weapons/lost-prayer-to-the-sacred-winds.png)<br>Lost Prayer to the Sacred Winds|   |
-|![Memory of Dust](images/weapons/memory-of-dust.png)<br>Memory of Dust|   |
+|![Skyward Atlas](images/weapons/skyward-atlas.png)<br>Skyward Atlas|The Skyward Atlas is best in slot in terms of DPS. With **highest base ATK in the game**, **Elemental DMG Bonus**, and **additional hits**, this weapon is pure power. You couldn't ask much more than this.|
+|![Lost Prayer to the Sacred Winds](images/weapons/lost-prayer-to-the-sacred-winds.png)<br>Lost Prayer to the Sacred Winds|The Lost Prayer has slightly less damage than the Skyward Atlas. To pull ahead, you need to be on field for around 12 seconds, but you'll want to swap Yanfei away to perform your support rotation not long after that. However, the **crit stat** makes it easier to build artifacts, and the **movement speed** is also a good stat on Yanfei considering how squishy she is. Overall, this weapon is still very good and is **more or less equal** to Skyward Atlas if you value the slightly better comfortability.|
+|![Memory of Dust](images/weapons/memory-of-dust.png)<br>Memory of Dust|The Geo series weapon. The Memory of Dust also gives good damage if you can maintain 100% shield uptime. It has the downside of limiting your team choice, but it's still a great weapon.|
 
 |4 stars       |   |
 |:------------:|---|
