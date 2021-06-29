@@ -52,6 +52,7 @@ More Damage. However, unlike the Ascension 1 Passive, this one isn't free. The a
 ### Talent Priority
 Normal Attack > Elemental Burst >>>>>>>>>>>>>>> Elemental Skill
 
+
 # Constellations
 ### C1: The Laws Knows No Kindness
 ![The Laws Knows No Kindness](images/constellations/c1.png)  
@@ -100,22 +101,31 @@ This increases the maximum number Scarlet Seals from 3 to 4. It may or may not h
 |4 stars       |   |
 |:------------:|---|
 |![The Widsith](images/weapons/the-widsith.png)<br>The Widsith|The Widsith is a great weapon for Yanfei. With a **crit stat**, it's easier to build good crit ratio on artifacts. Furthermore, Yanfei can use **all** of its three effects extremely well, especially if you play with Vaporize. The only downside is its long cooldown, which affect the overall damage output if you play Yanfei as a sustained DPS. At **high refine**, it's considered best in slot among four stars. However, at low refine, some of the other options might be better.|
-|![Dodoco Tales](images/weapons/dodoco-tales.png)<br>Dodoco Tales|Dodoco Tales, the free weapon from the 1.6 Midsummer Islands Adventure event, is another great choice. It grants **bonus to Charged Attack**, which is a big portion of Yanfei's output. It's also easy to max refine, so it might pull over other options for low spender. A solid weapon overall.|
+|![Dodoco Tales](images/weapons/dodoco-tales.png)<br>Dodoco Tales|Dodoco Tales, the free weapon from the 1.6 Midsummer Islands Adventure event, is another great choice. It grants **bonus to Charged Attack**, which is a big portion of Yanfei's output. Compared to The Widsith, this weapon **doesn't lose effectiveness in a long fight** and **is very easy to max refine**, so it can be a better choice than low refine Widsith. A solid weapon overall.|
 |![Solar Pearl](images/weapons/solar-pearl.png)<br>Solar Pearl|The battle pass weapon. Another solid choice with its **crit stat**. Although, its effect, **granting Normal Attack, Elemental Skill, and Elemental Burst DMG Bonus**, isn't big compared to the other two above due to how big of a deal Charged Attacks are for Yanfei. Overall it's slightly worse than The Widsith and Dodoco Tales, but still a viable choice. You can't go wrong with a battle pass weapon.|
-|![Mappa Mare](images/weapons/mappa-mare.png)<br>Mappa Mare|The craftable weapon. A solid stat stick. With its **Elemental Mastery** stat, you're pretty much locked in to a **Vaporize** build. Still a good F2P choice if you missed Dodoco Tales.|
+|![Mappa Mare](images/weapons/mappa-mare.png)<br>Mappa Mare|The craftable weapon. A solid stat stick. With its **Elemental Mastery** stat, you're pretty much locked in to a **Melt or Vaporize** team. Still a good F2P choice if you missed Dodoco Tales.|
 |![Blackcliff Agate](images/weapons/blackcliff-agate.png)<br>Blackcliff Agate|The Starglitter shop weapon. It has the exact same base stats as The Widsith, but a significantly worse effect. It's a fine F2P choice if you don't have any other options.|
 
+
 # Artifacts
-\[TODO refine artifact choice\]
 ### Main stats
-- Sands: *Elemental Mastery* or *ATK*
-- Cup: *Pyro DMG Bonus*
-- Hat: *Crit Rate* or *Crit Damage*
-The main stats are built like typical DPS. However, EM Sands actually yields slightly better damage compared to ATK Sands. The difference isn't much though so choose whichever one you have with better substats.  
-Building Energy Recharge on Yanfei is *not worth it*. Even though you get to ult more often, it doesn't compensate for the damage loss from not using EM or ATK Sands.
+The main stats are built like typical DPS.
+- **Sands:** *Elemental Mastery* or *ATK*
+- **Cup:** *Pyro DMG Bonus*
+- **Hat:** *CRIT Rate* or *CRIT Damage*
+
+The choices for Cup and Hat are usually undisputed. In general, you want to evenly distribute each stat that contributes to damage output. DMG Bonus and CRIT stats are hard to come by, so they are the preferred choices for the slots that can get them. Although, since Yanfei has so many sources of DMG Bonus, there might be a case for an ATK Cup if its substats are much better than your Pyro Cup, but it really depends on the actual piece you have.
+
+For the Sands choice, it depends on what your Yanfei does for your team.
+- **Melt, Vaporize:** Prefers **Elemental Mastery** Sands. It has slightly better damage output, especially if you use an ATK% weapon and have Bennett buff your ATK further. However, **ATK** Sands still has a chance to pull ahead if it has much better substats.
+- **Overload, Reverse Melt, Mono Pyro, etc:** Use **ATK** Sands. It improves Yanfei's Charged Attack damage, the largest portion of her DPS. Even with 1.6 buff, it's still **not recommended to build EM for the Overload build** as it isn't guaranteed that Yanfei will always be the trigger.
+- Regarding **Energy Recharge** Sands, building it on Yanfei is **not worth it**. The DMG Bonus from the Elemental Burst is **not big enough** that you need to use it every rotation to do good damage, so you're better off **just improving Yanfei's damage through the actual damage stats**.
+
 ### Substats
 Crit Rate/Crit Damage > EM > ATK% > ER  
-Typical DPS substat priority. Again, ER is useful to have, but ATK% and EM are still better.
+Typical DPS substat priority. Since the substats are subject to heavy RNG, **Energy Recharge** is useful to have, but ATK% and Elemental Mastery are still preferred.
+- **Ignore Elemental Mastery if you don't Melt or Vaporize.**
+
 ### Set Bonus
 |Artifact Set  |   |
 |:------------:|---|
