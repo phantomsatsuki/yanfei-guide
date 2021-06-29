@@ -136,6 +136,14 @@ Typical DPS substat priority. Since the substats are subject to heavy RNG, **Ene
 
 Please be aware that generally a set **bonus** is just that, a bonus. It's usually better to have an off-set piece with good substats than to complete a set with bad substat. Punch your artifacts into a calculator if you want to optimise your DPS.
 
+# Team comp
+\[TODO Add image\]
+#### Vape
+#### Taser
+#### Overload
+#### Reverse Melt
+#### Mono Pyro
+
 # How To Play
 
 \[TODO refine build choice\]
@@ -157,13 +165,5 @@ If you *do* care about those reactions though, You'll need to adjust. Vaporizing
 #### Xingqiu
 #### C6 Xingqiu
 #### Mona
-
-# Team comp
-\[TODO Add image\]
-#### Vape
-#### Taser
-#### Overload
-#### Reverse Melt
-#### Mono Pyro
 
 # Summary
