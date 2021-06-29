@@ -109,22 +109,22 @@ This increases the maximum number Scarlet Seals from 3 to 4. It may or may not h
 
 # Artifacts
 ### Main stats
-The main stats are built like typical DPS.
-- **Sands:** *Elemental Mastery* or *ATK*
-- **Cup:** *Pyro DMG Bonus*
-- **Hat:** *CRIT Rate* or *CRIT Damage*
+The main stats are built like typical DPS.  
+- **Sands:** *Elemental Mastery* or *ATK*  
+- **Cup:** *Pyro DMG Bonus*  
+- **Hat:** *CRIT Rate* or *CRIT Damage*  
 
 The choices for Cup and Hat are usually undisputed. In general, you want to evenly distribute each stat that contributes to damage output. DMG Bonus and CRIT stats are hard to come by, so they are the preferred choices for the slots that can get them. Although, since Yanfei has so many sources of DMG Bonus, there might be a case for an ATK Cup if its substats are much better than your Pyro Cup, but it really depends on the actual piece you have.
 
-For the Sands choice, it depends on what your Yanfei does for your team.
-- **Melt, Vaporize:** Prefers **Elemental Mastery** Sands. It has slightly better damage output, especially if you use an ATK% weapon and have Bennett buff your ATK further. However, **ATK** Sands still has a chance to pull ahead if it has much better substats.
-- **Overload, Reverse Melt, Mono Pyro, etc:** Use **ATK** Sands. It improves Yanfei's Charged Attack damage, the largest portion of her DPS. Even with 1.6 buff, it's still **not recommended to build EM for the Overload build** as it isn't guaranteed that Yanfei will always be the trigger.
-- Regarding **Energy Recharge** Sands, building it on Yanfei is **not worth it**. The DMG Bonus from the Elemental Burst is **not big enough** that you need to use it every rotation to do good damage, so you're better off **just improving Yanfei's damage through the actual damage stats**.
+For the Sands choice, it depends on what your Yanfei does for your team.  
+- **Melt, Vaporize:** Prefer **Elemental Mastery** Sands. It has slightly better damage output, especially if you use an ATK% weapon and have Bennett buff your ATK further. However, **ATK** Sands still has a chance to pull ahead if it has much better substats.  
+- **Overload, Reverse Melt, Mono Pyro, etc:** Use **ATK** Sands. It improves Yanfei's Charged Attack damage, the largest portion of her DPS. Even with 1.6 buff, it's still **not recommended to build EM for the Overload build** as it isn't guaranteed that Yanfei will always be the trigger.  
+- Regarding **Energy Recharge** Sands, building it on Yanfei is **not worth it**. The DMG Bonus from the Elemental Burst is **not big enough** that you need to use it every rotation to do good damage, so you're better off **just improving Yanfei's damage through the actual damage stats**.  
 
 ### Substats
 Crit Rate/Crit Damage > EM > ATK% > ER  
-Typical DPS substat priority. Since the substats are subject to heavy RNG, **Energy Recharge** is useful to have, but ATK% and Elemental Mastery are still preferred.
-- **Ignore Elemental Mastery if you don't Melt or Vaporize.**
+
+Typical DPS substat priority. Since the substats are subject to heavy RNG, **Energy Recharge** is useful to have, but ATK% and Elemental Mastery are still preferred. **Ignore Elemental Mastery if you don't Melt or Vaporize.**
 
 ### Set Bonus
 |Artifact Set  |   |
@@ -134,7 +134,7 @@ Typical DPS substat priority. Since the substats are subject to heavy RNG, **Ene
 |![Retracing Bolide](images/artifacts/retracing-bolide-flower.png)<br>4x Retracing Bolide|This set has **35% Shield Strength** and **40% Normal and Charged Attack DMG while shielded**. It's recommended to have C4 or shield support while playing this set. The raw damage this set gives isn't as much as Crimson Witch or Wanderer's Troupe, but it comes with more Shield Strength. Overall, this set is playable if you can fulfill its shield condition.|
 |![Lavawalker](images/artifacts/lavawalker-flower.png)<br>4x Lavawalker|This set gives **35% DMG Bonus against enemies affected by Pyro**. It's a niche set that requires specific team to shine, but it's playable if you're sure that your enemies will be affected by Pyro most of the time.|
 
-Please be aware that generally a set **bonus** is just that, a bonus. It's usually better to have an off-set piece with good substats than to complete a set with bad substat. Punch your artifacts into a [calculator](https://frzyc.github.io/genshin-optimizer) if you want to optimise your DPS.
+Please be aware that generally a set **bonus** is just that, a bonus. It's usually better to have an off-set piece with good substats than to complete a set with bad substat. Punch your artifacts into a calculator if you want to optimise your DPS.
 
 # How To Play
 
