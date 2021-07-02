@@ -25,7 +25,7 @@ Yanfei's basic attack talent. As a Main DPS unit, Yanfei's **main source of DPS*
 
 ### Signed Edict
 ![Signed Edict](images/talents/eskill.png)  
-Yanfei's Elemental Skill. Deals a moderate amount of damage once and **generates the maximum number of Scarlet Seals**. The best part of this talent is, of course, the Scarlet Seals, which doesn't scale per talent levels at all, so there is no need to invest in this talent.
+Yanfei's Elemental Skill. Deals a moderate amount of damage once and **generates the maximum number of Scarlet Seals**. The best part of this talent is, of course, the Scarlet Seals, which doesn't scale per talent levels at all. There is no need to invest in this talent.
 
 ### Done Deal
 ![Done Deal](images/talents/eburst.png)  
@@ -58,7 +58,7 @@ More Damage. However, unlike the Ascension 1 Passive, this one isn't free. The a
 ![The Laws Knows No Kindness](images/constellations/c1.png)  
 *When Yanfei uses her Charged Attack, each existing Scarlet Seal additionally reduces the stamina cost of this Charged Attack by 10% and increases resistance against interruption during its release.*  
 
-This constellation helps alleviate stamina issues. It makes Yanfei able to spam more Charge Attacks and dodge enemies' attacks. This is Yanfei's best constellation. Try to get this if you can.
+This constellation helps alleviate stamina issues. It makes Yanfei able to spam more Charged Attacks and dodge enemies' attacks. This is Yanfei's best constellation. Try to get this if you can.
 
 ### C2: Right of Final Interpretation
 ![Right of Final Interpretation](images/constellations/c2.png)  
@@ -76,7 +76,7 @@ This constellation improves Yanfei's **Elemental Skill**. As described above, th
 ![Supreme Amnesty](images/constellations/c4.png)  
 *When Done Deal is used: Creates a shield that absorbs up to 45% of Yanfei's Max HP for 15s. This shield absorbs Pyro DMG 250% more effectively.*  
 
-This provides a shield. It contributes nothing to DPS directly, but makes fighting in close range more comfortable. The duration is the same as the ult. Overall it's good to have.
+Provides a shield. It contributes nothing to DPS directly, but makes fighting in close range more comfortable. The duration is the same as the ult. It's good to have but not necessary.
 
 ### C5: Abiding Affidavit
 ![Abiding Affidavit](images/constellations/c5.png)  
@@ -95,12 +95,12 @@ This increases the maximum number Scarlet Seals from 3 to 4. It may or may not h
 |5 stars       |   |
 |:------------:|---|
 |![Skyward Atlas](images/weapons/skyward-atlas.png)<br>Skyward Atlas|The Skyward Atlas is best in slot in terms of DPS. With **highest base ATK in the game**, **Elemental DMG Bonus**, and **additional hits**, this weapon is pure power. You couldn't ask much more than this.|
-|![Lost Prayer to the Sacred Winds](images/weapons/lost-prayer-to-the-sacred-winds.png)<br>Lost Prayer to the Sacred Winds|The Lost Prayer has slightly less damage than the Skyward Atlas. To pull ahead, you need to be on field for around 12 seconds, but you'll want to swap Yanfei away to perform your support rotation not long after that. However, the **crit stat** makes it easier to build artifacts, and the **movement speed** is also a good stat on Yanfei considering how squishy she is. Overall, this weapon is still very good and is **more or less equal** to Skyward Atlas if you value the slightly better comfortability.|
+|![Lost Prayer to the Sacred Winds](images/weapons/lost-prayer-to-the-sacred-winds.png)<br>Lost Prayer to the Sacred Winds|The Lost Prayer has slightly less damage than the Skyward Atlas. To pull ahead, you need to be on field for around 12 seconds. However, you'll want to swap Yanfei out not long after that since that's around when the supports' buffs run out. That said, the **crit stat** still makes it easier to build artifacts, and the **movement speed** is also a good stat on Yanfei considering how squishy she is. Overall, this weapon is still very good and is **more or less equal** to Skyward Atlas if you value the slightly better comfortability.|
 |![Memory of Dust](images/weapons/memory-of-dust.png)<br>Memory of Dust|The Geo series weapon. The Memory of Dust also gives good damage if you can maintain 100% shield uptime. It has the downside of limiting your team choice, but it's still a great weapon.|
 
 |4 stars       |   |
 |:------------:|---|
-|![The Widsith](images/weapons/the-widsith.png)<br>The Widsith|The Widsith is a great weapon for Yanfei. With a **crit stat**, it's easier to build good crit ratio on artifacts. Furthermore, Yanfei can use **all** of its three effects extremely well, especially if you play with Vaporize. The only downside is its long cooldown, which affect the overall damage output if you play Yanfei as a sustained DPS. At **high refine**, it's considered best in slot among four stars. However, at low refine, some of the other options might be better.|
+|![The Widsith](images/weapons/the-widsith.png)<br>The Widsith|The Widsith is a great weapon for Yanfei. With a **crit stat**, it's easier to build good crit ratio on artifacts. Furthermore, Yanfei can use **all** of its three effects extremely well, especially if you play with Vaporize. The only downside is its long cooldown, which affect the overall damage output if you play Yanfei as a sustained DPS. At **high refine**, it's a very good choice among four stars. However, at low refine, some of the other options might be better.|
 |![Dodoco Tales](images/weapons/dodoco-tales.png)<br>Dodoco Tales|Dodoco Tales, the free weapon from the 1.6 Midsummer Islands Adventure event, is another great choice. It grants **bonus to Charged Attack**, which is a big portion of Yanfei's output. Compared to The Widsith, this weapon **doesn't lose effectiveness in a long fight** and **is very easy to max refine**, so it can be a better choice than low refine Widsith. A solid weapon overall.|
 |![Solar Pearl](images/weapons/solar-pearl.png)<br>Solar Pearl|The battle pass weapon. Another solid choice with its **crit stat**. Although, its effect, **granting Normal Attack, Elemental Skill, and Elemental Burst DMG Bonus**, isn't big compared to the other two above due to how big of a deal Charged Attacks are for Yanfei. Overall it's slightly worse than The Widsith and Dodoco Tales, but still a viable choice. You can't go wrong with a battle pass weapon.|
 |![Mappa Mare](images/weapons/mappa-mare.png)<br>Mappa Mare|The craftable weapon. A solid stat stick. With its **Elemental Mastery** stat, you're pretty much locked in to a **Melt or Vaporize** team. Still a good F2P choice if you missed Dodoco Tales.|
@@ -117,14 +117,14 @@ The main stats are built like typical DPS.
 The choices for Cup and Hat are usually undisputed. In general, you want to evenly distribute each stat that contributes to damage output. DMG Bonus and CRIT stats are hard to come by, so they are the preferred choices for the slots that can get them. Although, since Yanfei has so many sources of DMG Bonus, there might be a case for an ATK Cup if its substats are much better than your Pyro Cup, but it really depends on the actual piece you have.
 
 For the Sands choice, it depends on what your Yanfei does for your team.  
-- **Melt, Vaporize:** Prefer **Elemental Mastery** Sands. It has slightly better damage output, especially if you use an ATK% weapon and have Bennett buff your ATK further. However, **ATK** Sands still has a chance to pull ahead if it has much better substats.  
-- **Overload, Reverse Melt, Mono Pyro, etc:** Use **ATK** Sands. It improves Yanfei's Charged Attack damage, the largest portion of her DPS. Even with 1.6 buff, it's still **not recommended to build EM for the Overload build** as it isn't guaranteed that Yanfei will always be the trigger.  
-- Regarding **Energy Recharge** Sands, building it on Yanfei is **not worth it**. The DMG Bonus from the Elemental Burst is **not big enough** that you need to use it every rotation to do good damage, so you're better off **just improving Yanfei's damage through the actual damage stats**.  
+- **Melt, Vaporize ("Amp" build):** Prefer **Elemental Mastery** Sands. It has slightly better damage output, especially if you use an ATK% weapon and have Bennett buff your ATK further. However, **ATK** Sands still has a chance to pull ahead if it has much better substats.  
+- **Overload, Reverse Melt, Mono Pyro, etc ("Enabler" build):** Use **ATK** Sands. It improves Yanfei's Charged Attack damage, the largest portion of her DPS. Even with 1.6 buff, it's still **not recommended to build EM for the Overload build** as it isn't guaranteed that Yanfei will always be the trigger.  
+- Regarding **Energy Recharge** Sands, building it on Yanfei is **not worth it**. The DMG Bonus from the Elemental Burst is **not big enough** that you need to use it every rotation to do good damage, so you're better off just **improving Yanfei's damage through the actual damage stats**.  
 
 ### Substats
 Crit Rate/Crit Damage > EM > ATK% > ER  
 
-Typical DPS substat priority. Since the substats are subject to heavy RNG, **Energy Recharge** is useful to have, but ATK% and Elemental Mastery are still preferred. **Ignore Elemental Mastery if you don't Melt or Vaporize.**
+Typical DPS substat priority. Energy Recharge is good if you can go from ulting **every other** rotation to ulting **every** rotation, but otherwise prefer the damage stats. **Ignore Elemental Mastery if you don't Melt or Vaporize.**
 
 ### Set Bonus
 |Artifact Set  |   |
@@ -136,13 +136,24 @@ Typical DPS substat priority. Since the substats are subject to heavy RNG, **Ene
 
 Please be aware that generally a set **bonus** is just that, a bonus. It's usually better to have an off-set piece with good substats than to complete a set with bad substat. Punch your artifacts into a calculator if you want to optimise your DPS.
 
-# Team comp
-\[TODO Add image\]
-#### Vape
+# Team Compositions
+#### Vaporize
+![Yanfei](images/mugshots/yanfei.png) ![Xingqiu](images/mugshots/xingqiu.png) ![Flex](images/mugshots/flex.png) ![Flex](images/mugshots/flex.png)  
+Pairing a Pyro DPS and a Hydro support to **amplify Pyro damage via Vaporize** is the gold standard composition since launch. Obviously, it involves Xingqiu, the premier Hydro support guy. You can replace Xingqiu with another Hydro support like Mona or Barbara with varying results. This playstyle often **requires specific combos for Yanfei** to properly **Vaporize her big hits**, which will be detailed below. The flex slots usually consist of buffers and healers: Zhongli for his shield and RES shred, Diona for healing and C6 EM buff, Sucrose for EM buff and RES shred, or Bennett for ATK buff and healing. The main benefit of this team is how it will give good results just by hyperinvesting in Yanfei: Get her to level 80, ascension 6, max her weapons, her talents, and her artifacts, and you're good to go.
+
 #### Taser
+![Yanfei](images/mugshots/yanfei.png) ![Xingqiu](images/mugshots/xingqiu.png) ![Fischl](images/mugshots/fischl.png) ![Flex](images/mugshots/flex.png)  
+This composition is similar to the Vaporize team. In addition to a Hydro suppoert, an Electro support is also used to benefit from additional reactions. Enemies affected by **Electro-Charged** have both Electro and Hydro auras remained on them, so a Pyro hit will trigger **both Vaporize and Overload** at the same time. Like the Vaporize team, you can swap Xingqiu and Fischl out for another support of the same element, and anything said about the Vaporize team applies here as well.
+
 #### Overload
+![Yanfei](images/mugshots/yanfei.png) ![Fischl](images/mugshots/fischl.png) ![Beidou](images/mugshots/beidou.png) ![Flex](images/mugshots/flex.png)  
+This team utilises the **Overload** reaction. It is often undesirable to use Overload against small targets since they'll be blasted away. However, unlike other Pyro DPS, Yanfei can utilise her **very long range** to keep attacking those enemies, and blasting them away makes it safer to continue attacking. Although, unlike the Vaporize team, Yanfei's personal damage doesn't get amplified to stellar level, and that means this team needs **more damage from the supports**, and you'll need to actually build them up before the overall team damage becomes competitive.
+
 #### Reverse Melt
+![Yanfei](images/mugshots/yanfei.png) ![Rosaria](images/mugshots/rosaria.png) ![Flex](images/mugshots/flex.png) ![Flex](images/mugshots/flex.png)  
+
 #### Mono Pyro
+![Yanfei](images/mugshots/yanfei.png) ![Xiangling](images/mugshots/xiangling.png) ![Bennett](images/mugshots/bennett.png) ![Flex](images/mugshots/flex.png)  
 
 # How To Play
 
