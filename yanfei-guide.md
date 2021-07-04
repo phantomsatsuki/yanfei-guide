@@ -151,9 +151,11 @@ This team utilises the **Overload** reaction. It is often undesirable to use Ove
 
 #### Reverse Melt
 ![Yanfei](images/mugshots/yanfei.png) ![Rosaria](images/mugshots/rosaria.png) ![Flex](images/mugshots/flex.png) ![Flex](images/mugshots/flex.png)  
+This team uses Yanfei as an **enabler** for the Melt reaction with a Cryo sub-DPS. In this comp, it's important to build the Cryo unit first since it's their damage that will get amplified. Also, since you'll want the aura on enemies to be Pyro most of the time, and Yanfei is rarely the reaction trigger, the Lavawalker set becomes another contender for preferred artifact sets.
 
 #### Mono Pyro
 ![Yanfei](images/mugshots/yanfei.png) ![Xiangling](images/mugshots/xiangling.png) ![Bennett](images/mugshots/bennett.png) ![Flex](images/mugshots/flex.png)  
+This team utilises Pyro units that **benefit from other Pyro units**, like Xiangling and Bennett. It'll constantly apply Pyro aura and can utilise Lavawalker for DMG Bonus.
 
 # How To Play
 
