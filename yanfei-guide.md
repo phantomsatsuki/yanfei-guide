@@ -160,14 +160,14 @@ This team utilises Pyro units that **benefit from other Pyro units**, like Xiang
 # How To Play
 
 ## Terminology
-**N:** Normal Attack
-**C:** Charged Attack
-**E:** Elemental Skill
-**Q:** Elemental Burst
-**NxC:** Normal Attack x times, then Charged Attack
+- **N:** Normal Attack
+- **C:** Charged Attack
+- **E:** Elemental Skill
+- **Q:** Elemental Burst
+- **NxC:** Normal Attack x times, then Charged Attack
 
-[Keqing Mains Theory Crafting Library's Yanfei page](https://library.keqingmains.com/characters/pyro/yanfei)
-[Keqing Mains Evidence Vault's Yanfei page](https://library.keqingmains.com/evidence/characters/pyro/yanfei)
+[Keqing Mains Theory Crafting Library's Yanfei page](https://library.keqingmains.com/characters/pyro/yanfei)  
+[Keqing Mains Evidence Vault's Yanfei page](https://library.keqingmains.com/evidence/characters/pyro/yanfei)  
 
 ## Attack Combos
 Most of Yanfei's damage in an attack combo will come from her Charged Attack. Thus, it's logical that Yanfei's combos usually goes in the form of **"something, followed by a Charged Attack"**.
@@ -187,10 +187,9 @@ As for the Elemental Skill and Burst:
 ## Elemental Reactions
 Generally, the above info applies to the playstyles that **doesn't care** about who triggers the reaction (like Overload) or **wants Pyro aura** on enemies anyway (Reverse Melt and Mono Pyro).
 
-When **Amplifying** Elemental Reactions are taken into account, like the **Vaporize** and **Taser** team, the combos will need to be re-evaluated. See, Yanfei has **very fast Pyro application**, and her **Ascension 4 Passive** adds even more of it. Since each of Yanfei's hits aren't equal, you need to **be selective of which hit to Vaporize**.
+When **Amplifying** Elemental Reactions are taken into account, like the **Vaporize** and **Taser** team, the combos will need to be re-evaluated. Yanfei has **very fast Pyro application**, and her **Ascension 4 Passive** adds even more of it. Since each of Yanfei's hits aren't equal, you need to **be selective of which hit to Vaporize**. This will be different depending on your Hydro applier.
 
 #### Xingqiu
 #### C6 Xingqiu
-#### Mona
 
 # Summary
