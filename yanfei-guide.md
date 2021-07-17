@@ -159,22 +159,36 @@ This team utilises Pyro units that **benefit from other Pyro units**, like Xiang
 
 # How To Play
 
-\[TODO refine build choice\]
-## Builds
-Yanfei's role is a selfish main DPS. She will be on field most of the time, only swap to unleash the supports' skills and swap back.  
-As with other Pyro DPS, there are generally two ways to build Yanfei based on the Elemental Reactions you want to use.
-### Amp Yanfei
-This build uses Vaporize or Melt to amplify Yanfei's damage. This means Yanfei will be the *trigger* for the reaction. Usually it'll be Vaporize, as Melt doesn't last long before Yanfei's Pyro application takes over. Due to some quirks in Yanfei's own kit, Amp Yanfei requires specific combo depending on your support. The combos will be discussed in detail further in this guide.
-### Enabler Yanfei
-This build uses Yanfei to apply Pyro *aura* and enable Elemental Reactions of your sub-DPS. Reverse Melt and Mono Pyro teams are in this category. Overload might be in this category as well if Yanfei is the aura, but that'll depend on your team.
+## Terminology
+**N:** Normal Attack
+**C:** Charged Attack
+**E:** Elemental Skill
+**Q:** Elemental Burst
+**NxC:** Normal Attack x times, then Charged Attack
 
-## Combos
-### Non-Amp Build
-Generally, if you're not playing Amp reactions (Vaporize/Melt), spamming N2C yields maximum motion value per second, which translates to maximum DPS. Use Skill-Charge and Burst-Charge off cooldown in between.
+[Keqing Mains Theory Crafting Library's Yanfei page](https://library.keqingmains.com/characters/pyro/yanfei)
+[Keqing Mains Evidence Vault's Yanfei page](https://library.keqingmains.com/evidence/characters/pyro/yanfei)
 
-### Amp Build
-If you *do* care about those reactions though, You'll need to adjust. Vaporizing or Melting Yanfei's hits requires Yanfei to be the trigger, but N2C applies Pyro too fast for those. Reasons being how fast her Normal Attack animation is, and her Ascension 4 passive applying another separate instance of Pyro.  
-**TODO INSERT COMBO GUIDE**
+## Attack Combos
+Most of Yanfei's damage in an attack combo will come from her Charged Attack. Thus, it's logical that Yanfei's combos usually goes in the form of **"something, followed by a Charged Attack"**.
+
+Using to the frame data, we can conclude that:
+- Starting from zero Scarlet Seals, the attack string that **deals the most damage per frame** is **N2C**.
+- N3C has lower damage, but it **consumes less stamina** due to more time to recharge and more Scarlet Seals. It can be useful for stamina management.
+- **Animation Cancelling is unnecessary** (and that's why it wasn't mentioned in the terminology section). Jump Cancelling doesn't improve Yanfei's overall damage, and Dash Cancelling consumes too much stamina to be useful in normal play.
+
+As for the Elemental Skill and Burst:
+- You should generally use Elemental Skill whenever it's available, then, since it generates maximum Scarlet Seals, immediately follow with a Charged Attack.
+- The Elemental Burst should be immediately followed by a Charged Attack for the same reason.
+- During burst, Yanfei will generate one Scarlet Seal per second, which usually translates to one more Seal per combo. This means N2C will have 3 Seals, and N3C will have 3 Seals without C6, and 4 Seals with C6. Thus, without C6, N2C has the **same damage and stamina consumption** as N3C during burst, but uses significantly less time.
+- Even with C6, **N2C still deals more damage per frame**. However, **N3C will consume zero stamina** and become the ultimate stamina management tool.
+- If you have both the Elemental Skill and Burst available, the logical combo of these two would be **QC EC**, since the Charged Attack after E will also be boosted by Q.
+
+## Elemental Reactions
+Generally, the above info applies to the playstyles that **doesn't care** about who triggers the reaction (like Overload) or **wants Pyro aura** on enemies anyway (Reverse Melt and Mono Pyro).
+
+When **Amplifying** Elemental Reactions are taken into account, like the **Vaporize** and **Taser** team, the combos will need to be re-evaluated. See, Yanfei has **very fast Pyro application**, and her **Ascension 4 Passive** adds even more of it. Since each of Yanfei's hits aren't equal, you need to **be selective of which hit to Vaporize**.
+
 #### Xingqiu
 #### C6 Xingqiu
 #### Mona
