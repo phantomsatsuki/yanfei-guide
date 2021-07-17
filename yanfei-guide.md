@@ -166,8 +166,9 @@ This team utilises Pyro units that **benefit from other Pyro units**, like Xiang
 - **Q:** Elemental Burst
 - **NxC:** Normal Attack x times, then Charged Attack
 
-[Keqing Mains Theory Crafting Library's Yanfei page](https://library.keqingmains.com/characters/pyro/yanfei)  
-[Keqing Mains Evidence Vault's Yanfei page](https://library.keqingmains.com/evidence/characters/pyro/yanfei)  
+## Data
+- [Keqing Mains Theory Crafting Library's Yanfei page](https://library.keqingmains.com/characters/pyro/yanfei)  
+- [Keqing Mains Evidence Vault's Yanfei page](https://library.keqingmains.com/evidence/characters/pyro/yanfei)  
 
 ## Attack Combos
 Most of Yanfei's damage in an attack combo will come from her Charged Attack. Thus, it's logical that Yanfei's combos usually goes in the form of **"something, followed by a Charged Attack"**.
