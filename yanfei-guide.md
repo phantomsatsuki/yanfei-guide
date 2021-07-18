@@ -176,13 +176,14 @@ Most of Yanfei's damage in an attack combo will come from her Charged Attack. Th
 Using to the frame data, we can conclude that:
 - Starting from zero Scarlet Seals, the attack string that **deals the most damage per frame** is **N2C**.
 - N3C has lower damage, but it **consumes less stamina** due to more time to recharge and more Scarlet Seals. It can be useful for stamina management.
-- **Animation Cancelling is unnecessary** (and that's why it wasn't mentioned in the terminology section). Jump Cancelling doesn't improve Yanfei's overall damage, and Dash Cancelling consumes too much stamina to be useful in normal play.
+- In terms of animation cancelling, Yanfei has **Charge Cancelling** as her only useful tech. It involves holding your attack button early to make Yanfei's Charged Attack come out earlier. This encourages thinking about how many Normal Attacks you're going to perform beforehand.
+- Jump and Dash Cancelling are **not** necessary. Jump Cancelling doesn't improve Yanfei's DPS, and Dash Cancelling consumes too much stamina to be useful in normal play.
 
 As for the Elemental Skill and Burst:
 - You should generally use Elemental Skill whenever it's available, then, since it generates maximum Scarlet Seals, immediately follow with a Charged Attack.
 - The Elemental Burst should be immediately followed by a Charged Attack for the same reason.
 - During burst, Yanfei will generate one Scarlet Seal per second, which usually translates to one more Seal per combo. This means N2C will have 3 Seals, and N3C will have 3 Seals without C6, and 4 Seals with C6. Thus, without C6, N2C has the **same damage and stamina consumption** as N3C during burst, but uses significantly less time.
-- Even with C6, **N2C still deals more damage per frame**. However, **N3C will consume zero stamina** and become the ultimate stamina management tool.
+- Even with **Constellation 6**, **N2C still deals more damage per frame**. However, **N3C will consume zero stamina** and become the ultimate stamina management tool.
 - If you have both the Elemental Skill and Burst available, the logical combo of these two would be **QC EC**, since the Charged Attack after E will also be boosted by Q.
 
 ## Elemental Reactions
@@ -201,6 +202,6 @@ Xingqiu's Elemental Burst is the best Hydro application in the game at the momen
 
 - Xingqiu's **Constellation 6** adds more swords to his Elemental Burst, and that means more Hydro application. It adds a 5-sword hit to the usual loop, so his [2, 3]-sword loop becoms [2, 3, 5]-sword loop.
 - This means you can get away with N2C **during the 5-sword round**, since there will still be Hydro aura on the enemy without another Hydro application.
-- Assuming no dodges, this means the combo becomes **N3C, N2C, repeat**. The first N3C triggers the 2-sword hit and the 3-sword hit, then N2C triggers the 5-sword hit.
+- Assuming no dodges, the combo becomes **N3C, N2C, repeat**. The first N3C triggers the 2-sword hit and the 3-sword hit, then N2C triggers the 5-sword hit.
 
 # Summary
