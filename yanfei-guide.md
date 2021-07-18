@@ -197,10 +197,9 @@ When **Amplifying** Elemental Reactions are taken into account, like the **Vapor
 Xingqiu's Elemental Burst is the best Hydro application in the game at the moment. The Hydro swords appear on Normal Attacks and can happen every 1 second.
 - As it stands, N2C won't Vaporize Yanfei's Charged Attack hits consistently.
 - You'll need to do **N3C**. The third Normal Attack will trigger Xingqiu's swords one more time, clearing Pyro aura from Yanfei's earlier attack and re-apply Hydro. Subsequent Charged Attack then Vaporizes the Hydro aura, dealing big damage.
-- You can also utilise Xingqiu's "orbital" swords (the ones around your character that reduces damage and heal you) to apply more Hydro aura. This will enable N2C, but it requires putting a **squishy, long-range** character in melee range, so it's not desirable.
+- You can also utilise Xingqiu's "orbital" swords (the ones around your character that reduces damage and heal you) to apply more Hydro aura. This will enable N2C, but it requires putting a squishy, long-range character in melee range, so it's not desirable.
 
-#### C6 Xingqiu
-Xingqiu's C6 adds more swords to his Elemental Burst, and that means more Hydro application. It adds a 5-sword hit to the usual loop, so his [2, 3]-sword loop becoms [2, 3, 5]-sword loop.
+- Xingqiu's **Constellation 6** adds more swords to his Elemental Burst, and that means more Hydro application. It adds a 5-sword hit to the usual loop, so his [2, 3]-sword loop becoms [2, 3, 5]-sword loop.
 - This means you can get away with N2C **during the 5-sword round**, since there will still be Hydro aura on the enemy without another Hydro application.
 - Assuming no dodges, this means the combo becomes **N3C, N2C, repeat**. The first N3C triggers the 2-sword hit and the 3-sword hit, then N2C triggers the 5-sword hit.
 
