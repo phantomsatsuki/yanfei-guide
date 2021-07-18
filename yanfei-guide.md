@@ -25,11 +25,11 @@ Yanfei's basic attack talent. As a Main DPS unit, Yanfei's **main source of DPS*
 
 ### Signed Edict
 ![Signed Edict](images/talents/eskill.png)  
-Yanfei's Elemental Skill. Deals a moderate amount of damage once and **generates the maximum number of Scarlet Seals**. The best part of this talent is, of course, the Scarlet Seals, which doesn't scale per talent levels at all. There is no need to invest in this talent.
+Yanfei's Elemental Skill. Deals a moderate amount of damage once and **generates the maximum number of Scarlet Seals** if an enemy is hit. The best part of this talent is, of course, the Scarlet Seals, which doesn't scale per talent levels at all. There is no need to invest in this talent.
 
 ### Done Deal
 ![Done Deal](images/talents/eburst.png)  
-Yanfei's Elemental Burst. Deals a moderate amount of damage, generates the maximum number of Scarlet Seals at activation, **generates one more Seals per second**, and **increses Yanfei's Charged Attack DMG**, for 15 seconds. As said above, Yanfei's entire kit revolves around Charged Attacks, and this talent signifies how much it does.
+Yanfei's Elemental Burst. Deals a moderate amount of damage, generates **the maximum number of Scarlet Seals** at activation, **generates one more Seals per second**, and **increses Yanfei's Charged Attack DMG**, for 15 seconds. As said above, Yanfei's entire kit revolves around Charged Attacks, and this talent signifies how much it does.
 
 ### Talent Priority
 Normal Attack > Elemental Burst >>>>>>>>>>>>>>> Elemental Skill
