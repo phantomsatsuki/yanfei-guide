@@ -9,7 +9,7 @@ By: phantomsatsuki#9043
 **Element:** Pyro  
 **Weapon:** Catalyst  
 
-**This guide is updated for the infos from Genshin Impact version 1.6**
+**This guide is updated as of Genshin Impact version 1.6**
 
 # Introduction
 Welcome to the gameplay guide for Yanfei, the 4-star Pyro Catalyst character released in version 1.5! This guide will lay out how to utilise Yanfei: Weapons, Artifacts, Team, and Attack Combo in a simple, easy-to-read manner. Yanfei is a Main DPS character that focuses heavily around Charged Attacks. She's a relatively comfy character to play, with multiple ways to build a team. Yanfei havers and wanters alike are all encouraged to use the info in this guide to your hearts' content.
