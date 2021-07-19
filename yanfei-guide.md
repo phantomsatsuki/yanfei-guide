@@ -1,4 +1,4 @@
-By: satsuki#9043  
+By: phantomsatsuki#9043  
 [Court of Yanfei Discord](https://discord.gg/courtofyanfei)  
 
 <img src='images/cards/yanfei.png' alt='Yanfei' width='50%'>
@@ -9,14 +9,23 @@ By: satsuki#9043
 **Weapon:** Catalyst  
 
 # Introduction
-Yanfei is a Pyro Catalyst character released in 1.5. Her kit focuses heavily on Charge Attacks.
-\[Write about Yanfei's role, how she plays, etc\]
-## Pros
+Welcome to the gameplay guide for Yanfei, the 4-star Pyro Catalyst character released in version 1.5! This guide will lay out how to utilise Yanfei: Weapons, Artifacts, Team, and Attack Combo in a simple, easy-to-read manner. Yanfei is a Main DPS character that focuses heavily around Charged Attacks. She's a relatively comfy character to play, with multiple ways to build a team. Yanfei havers and wanters alike are all encouraged to use the info in this guide to your hearts' content.
+
+#### Pros
 - Absurdly long range
-\[TODO Add more pros\]
-## Cons
-- Low stamina due to constant Charge Attacks
-\[TODO Add more cons\]
+- Relatively big AoE
+- Comfortable to play: no complex animation cancelling required
+- Charged Attacks go baboom
+- Has synergy with multiple types of teams
+- Fully playable at C0
+
+#### Cons
+- Stamina issue due to constant Charged Attacks
+- Selfish Main DPS: requires field time to shine
+- High investment
+- Low survivability in close range
+- Lower base damage than the 5-star Pyro DPSes
+- Constellations mostly consist of QoL improvements, not much straight damage increase
 
 # Talents
 ### Normal Attack: Seal of Approval
@@ -130,7 +139,7 @@ Typical DPS substat priority. Energy Recharge is good if you can go from ulting 
 |Artifact Set  |   |
 |:------------:|---|
 |![Crimson Witch of Flames](images/artifacts/crimson-witch-of-flames-flower.png)<br>4x Crimson Witch of Flames|This set amplifies Yanfei's damage with **15% Pyro DMG Bonus** and **reaction damage bonus**. Since everything Yanfei does is Pyro, and you'll want to do reactions with her anyway, this set is a perfect match. You'll realistically only have 1-2 stack for the 4x effect that increases Pyro DMG Bonus, but it's good enough.|
-|![Wanderer's Troupe](images/artifacts/wanderers-troupe-flower.png)<br>4x Wanderer's Troupe|This set also amplifies Yanfei's damage with **80 Elemental Mastery** and **35% Charged Attack DMG**. Elemental Mastery increases reaction damage, and Charged Attack DMG Bonus increases Charged Attack damage, which is the majority of Yanfei's DPS. The logic favouring this set is the same as 4x Crimson Witch. For that reason, this set is considered **equally as good** as 4x Crimson Witch.|
+|![Wanderer's Troupe](images/artifacts/wanderers-troupe-flower.png)<br>4x Wanderer's Troupe|This set also amplifies Yanfei's damage with **80 Elemental Mastery** and **35% Charged Attack DMG**. Elemental Mastery increases reaction damage, and Charged Attack DMG Bonus increases Charged Attack damage, which is the majority of Yanfei's DPS. The logic favouring this set is exactly the same as 4x Crimson Witch. For that reason, this set is considered **equally as good**.|
 |![Retracing Bolide](images/artifacts/retracing-bolide-flower.png)<br>4x Retracing Bolide|This set has **35% Shield Strength** and **40% Normal and Charged Attack DMG while shielded**. It's recommended to have C4 or shield support while playing this set. The raw damage this set gives isn't as much as Crimson Witch or Wanderer's Troupe, but it comes with more Shield Strength. Overall, this set is playable if you can fulfill its shield condition.|
 |![Lavawalker](images/artifacts/lavawalker-flower.png)<br>4x Lavawalker|This set gives **35% DMG Bonus against enemies affected by Pyro**. It's a niche set that requires specific team to shine, but it's playable if you're sure that your enemies will be affected by Pyro most of the time.|
 
@@ -167,8 +176,8 @@ This team utilises Pyro units that **benefit from other Pyro units**, like Xiang
 - **NxC:** Normal Attack x times, then Charged Attack
 
 ## Data
-- [Keqing Mains Theory Crafting Library's Yanfei page](https://library.keqingmains.com/characters/pyro/yanfei)  
-- [Keqing Mains Evidence Vault's Yanfei page](https://library.keqingmains.com/evidence/characters/pyro/yanfei)  
+- [KeqingMains Theory Crafting Library's Yanfei page](https://library.keqingmains.com/characters/pyro/yanfei)  
+- [KeqingMains Evidence Vault's Yanfei page](https://library.keqingmains.com/evidence/characters/pyro/yanfei)  
 
 ## Attack Combos
 Most of Yanfei's damage in an attack combo will come from her Charged Attack. Thus, it's logical that Yanfei's combos usually goes in the form of **"something, followed by a Charged Attack"**.
@@ -176,14 +185,15 @@ Most of Yanfei's damage in an attack combo will come from her Charged Attack. Th
 Using to the frame data, we can conclude that:
 - Starting from zero Scarlet Seals, the attack string that **deals the most damage per frame** is **N2C**.
 - N3C has lower damage, but it **consumes less stamina** due to more time to recharge and more Scarlet Seals. It can be useful for stamina management.
-- In terms of animation cancelling, Yanfei has **Charge Cancelling** as her only useful tech. It involves holding your attack button early to make Yanfei's Charged Attack come out earlier. This encourages thinking about how many Normal Attacks you're going to perform beforehand.
+- In terms of animation cancelling, Yanfei has **Charge Cancelling** as her only useful tech. It involves holding your attack button for Charged Attack right after a Normal Attack, to make Yanfei's Charged Attack come out earlier. This encourages thinking about how many Normal Attacks you're going to perform beforehand.
 - Jump and Dash Cancelling are **not** necessary. Jump Cancelling doesn't improve Yanfei's DPS, and Dash Cancelling consumes too much stamina to be useful in normal play.
 
 As for the Elemental Skill and Burst:
 - You should generally use Elemental Skill whenever it's available, then, since it generates maximum Scarlet Seals, immediately follow with a Charged Attack.
 - The Elemental Burst should be immediately followed by a Charged Attack for the same reason.
-- During burst, Yanfei will generate one Scarlet Seal per second, which usually translates to one more Seal per combo. This means N2C will have 3 Seals, and N3C will have 3 Seals without C6, and 4 Seals with C6. Thus, without C6, N2C has the **same damage and stamina consumption** as N3C during burst, but uses significantly less time.
-- Even with **Constellation 6**, **N2C still deals more damage per frame**. However, **N3C will consume zero stamina** and become the ultimate stamina management tool.
+- During burst, Yanfei will generate one Scarlet Seal per second, which usually translates to one more Seal per combo. This means, starting from zero Seals, N2C will have 3 Seals, and N3C will have 3 Seals (w/o C6) or 4 Seals (w/ C6).
+- Without C6, N2C has the **same damage and stamina consumption** as N3C during burst, but uses significantly less time.
+- Even **with** C6, **N2C still deals more damage per frame**. However, **N3C will consume zero stamina** (because 4 Seals) and become the ultimate stamina management tool.
 - If you have both the Elemental Skill and Burst available, the logical combo of these two would be **QC EC**, since the Charged Attack after E will also be boosted by Q.
 
 ## Elemental Reactions
