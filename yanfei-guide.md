@@ -156,7 +156,7 @@ This composition is similar to the Vaporize team. In addition to a Hydro suppoer
 
 #### Overload
 ![Yanfei](images/mugshots/yanfei.png) ![Fischl](images/mugshots/fischl.png) ![Beidou](images/mugshots/beidou.png) ![Flex](images/mugshots/flex.png)  
-This team utilises the **Overload** reaction. It is often undesirable to use Overload against small targets since they'll be blasted away. However, unlike other Pyro DPS, Yanfei can utilise her **very long range** to keep attacking those enemies, and blasting them away makes it safer to continue attacking. Although, unlike the Vaporize team, Yanfei's personal damage doesn't get amplified to stellar level, and that means this team needs **more damage from the supports**, and you'll need to actually build them up before the overall team damage becomes competitive.
+This team utilises the **Overload** reaction, with Yanfei as the on-field **enabler** for the team. It is often undesirable to use Overload against small targets since they'll be blasted away. However, unlike other Pyro DPS, Yanfei can utilise her **very long range** to keep attacking those enemies, and blasting them away makes it safer to continue attacking. Although, unlike the Vaporize team, Yanfei's personal damage doesn't get amplified to stellar level, and that means this team needs **more damage from the supports**, and you'll need to **actually build them** up before the overall team damage becomes competitive.
 
 #### Reverse Melt
 ![Yanfei](images/mugshots/yanfei.png) ![Rosaria](images/mugshots/rosaria.png) ![Flex](images/mugshots/flex.png) ![Flex](images/mugshots/flex.png)  
@@ -215,3 +215,15 @@ Xingqiu's Elemental Burst is the best Hydro application in the game at the momen
 - Assuming no dodges, the combo becomes **N3C, N2C, repeat**. The first N3C triggers the 2-sword hit and the 3-sword hit, then N2C triggers the 5-sword hit.
 
 # Summary
+This is a quick TL;DR for this guide. For more information, refer to the texts above.
+- Yanfei is a Main DPS. Her kit heavily utilises Charged Attacks and Scarlet Seals.
+- C1, C5, and C6 are good. C2 and C4 are average. C3 is bad.
+- Use 5-star weapon if you have them. Otherwise, best 4-stars are R5 Widsith and R5 Dodoco Tales.
+- EM/Pyro/Crit for Amp build. ATK/Pyro/Crit for Enabler build.
+- Can be built with Vaporize, Taser, Overload, Reverse Melt, or Mono Pyro team, along with other compositions not covered by this guide.
+- Always follow attack strings, E, and Q with a Charged Attack.
+- N2C for damage, N3C for stamina management.
+- With Xingqiu, always N3C for consistent Vaporize. With Xingqiu C6, N3C N2C is also fine.
+
+# Afterwords
+Lastly, I would like to invite anyone reading this guide to hang out in the [Court of Yanfei Discord](https://discord.gg/courtofyanfei). We have a peaceful, comfy community open for every Yanfei lovers alike. You can also message me (phantomsatsuki#9043) for any questions, feedbacks, and general discussions about this guide and Yanfei. See ya!
